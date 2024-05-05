@@ -1,0 +1,15 @@
+.root {
+    background-color: #1a202c;
+    color: #f3ecec;
+    padding: 20px 0;
+  }
+  
+  .link {
+    color: #f6f8f9;
+    margin-left: 16px; /* Equivalent to theme.spacing(2) */
+    margin-right: 16px; /* Equivalent to theme.spacing(2) */
+  }
+  
+  .link:hover {
+    color: #cbd5e0;
+  }
